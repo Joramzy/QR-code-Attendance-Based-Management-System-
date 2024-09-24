@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+<!--        <string name="default_web_client_id">your-web-client-id</string>-->
+<!--        <string name="firebase_database_url">your-firebase-database-url</string>-->
+        <string name="gcm_defaultSenderId">"776605545716"</string>
+        <string name="google_api_key">"AIzaSyCqrKYNf-resZ3PlVkm9dgrBMALTIdlivA"</string>
+        <string name="google_app_id"> "1:776605545716:android:c6484c74edc01eafe81aa1"</string>
+        <string name="project_id">"qrcodeattendancemangement"</string>
+        <string name="storage_bucket">"qrcodeattendancemangement.appspot.com"</string>
+    </resources>
+

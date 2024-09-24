@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776605545716",
+    "project_id": "qrcodeattendancemangement",
+    "storage_bucket": "qrcodeattendancemangement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776605545716:android:c6484c74edc01eafe81aa1",
+        "android_client_info": {
+          "package_name": "com.example.qrcodeadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqrKYNf-resZ3PlVkm9dgrBMALTIdlivA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
